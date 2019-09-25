@@ -1,7 +1,7 @@
 # Class List for 1.125 - Fall 2019
 
 First-Name,Last-Name,GithubID
-Kayhan, Babakan, ihavenoidea
+Kayhan, Babakan, kbabakan, https://kbabakan.github.io/hw1/
 Luciana,Bueno,lucianabueno
 Nelson, Munoz, nmunoz1
 Sucharitha,Manyala,SucharithaManyala
